@@ -1,6 +1,12 @@
 # Hi there! 👋 I'm Divyanshu Lohani
 
 I'm a passionate full-stack web developer with extensive experience in Python and a strong background in front-end technologies. I specialize in building robust and scalable web applications using a variety of tools and frameworks.
+<p>
+  <a href="mailto:divyanshulohani2305@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+  <a href="https://twitter.com/DivyanshuLohani" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-ffffff.svg?&style=for-the-badge&logo=X&logoColor=black" /></a> 
+  <a href="https://www.linkedin.com/in/divyanshulohani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
 
 ## 🚀 Technologies I Work With
 
@@ -50,8 +56,9 @@ I'm a passionate full-stack web developer with extensive experience in Python an
 
 
 ## 📫 Get in Touch
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshulohani2305@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshulohani/)
+[![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DivyanshuLohani/)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyanshuxwb/)
 
-- [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/divyanshulohani/))
-- [Portfolio](https://divyanshulohani.github.io/)
-- Email: divyanshulohani2305@gmail.com
 
