@@ -16,59 +16,38 @@ I'm a passionate full-stack web developer with extensive experience in Python an
 ![Amazon AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-282C34?style=for-the-badge&logo=zod&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Icons](https://img.shields.io/badge/-React_Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![NextUI](https://img.shields.io/badge/-NextUI-000000?style=for-the-badge&logo=nextui&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-## 💼 Projects
 
-Here are some of the projects I've worked on:
-### 1. Ecommerce Website
-- **Tech Stack:** 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
-  ![Razorpay](https://img.shields.io/badge/-Razorpay-005FF9?style=flat-square&logo=razorpay&logoColor=white)
-- **Description:** A multivendor ecommerce platform similar to Amazon.
 
-### 2. Coaching Saas
-- **Tech Stack:** 
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Youtube Data API](https://img.shields.io/badge/-Youtube_Data_API-FF0000?style=flat-square&logo=youtube&logoColor=white)
-  ![Google Authentication](https://img.shields.io/badge/-Google_Authentication-4285F4?style=flat-square&logo=google&logoColor=white)
-- **Description:** A Software as a Service platform for coaching institutes with features of an ed tech platform, including note and PDF uploads.
+## 🔥 Github Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=DivyanshuLohani&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-### 3. Safety Company Website
-- **Tech Stack:** 
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-- **Description:** Website for a safety company with admin dashboard for client requests and product uploads, and a contact form.
+## 📊 Stats
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshuLohani&show_icons=true&theme=dark)
 
-### 4. Instagram Clone
-- **Tech Stack:** 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
-- **Description:** A clone of Instagram with profile customization, video and image posting, follow/unfollow, like, and comment features.
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuLohani&layout=compact&theme=dark)
 
-### 5. Career Counselling Business Website
-- **Tech Stack:** 
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-- **Features:** Appointment booking, admin dashboard, email scheduling
-- **Description:** Website for a career counselling business.
-
-### 6. Social Media Marketing Agency Website
-- **Tech Stack:** 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- **Description:** Webpage for a social media marketing agency.
 
 ## 📫 Get in Touch
 
@@ -76,4 +55,3 @@ Here are some of the projects I've worked on:
 - [Portfolio](https://divyanshulohani.github.io/)
 - Email: divyanshulohani2305@gmail.com
 
-Feel free to reach out if you'd like to collaborate on a project or just want to say hi! 😊
