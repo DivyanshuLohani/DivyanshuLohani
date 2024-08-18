@@ -47,8 +47,6 @@ I'm a passionate full-stack web developer with extensive experience in Python an
 
 
 
-## 🔥 Github Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=DivyanshuLohani&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 📊 Stats
 ![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshuLohani&show_icons=true&theme=dark)
