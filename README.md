@@ -56,9 +56,9 @@ I'm a passionate full-stack web developer with extensive experience in Python an
 
 
 ## 📫 Get in Touch
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshulohani2305@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshulohani/)
-[![X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DivyanshuLohani/)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyanshuxwb/)
+[!Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyanshulohani2305@gmail.com)
+[!LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshulohani/)
+[!X](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DivyanshuLohani/)
+[!Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyanshuxwb/)
 
 
