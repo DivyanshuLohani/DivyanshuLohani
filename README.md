@@ -35,10 +35,6 @@ I'm a passionate full-stack web developer with extensive experience in Python an
 
 
 
-
-## 📊 Stats
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyanshuLohani&show_icons=true&theme=dark)
-
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuLohani&layout=compact&theme=dark)
 
