@@ -33,7 +33,8 @@ I'm a passionate full-stack web developer with extensive experience in Python an
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/framer_motion-ffca28?style=for-the-badge&logo=framer&logoColor=%23ffffff&color=%237178f6)
 
-
+# Hoplin Badges
+[![An image of @divyanshulohani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshulohani)](https://holopin.io/@divyanshulohani)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshuLohani&layout=compact&theme=dark)
